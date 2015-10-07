@@ -1,0 +1,17 @@
+{
+  "name": "multi-tor",
+  "main": "mt.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiamike/multi-tor"
+  },
+  "devDevpendencies": {
+    "nodeunit": "^0.9.1"
+  },
+  "dependencies": {
+    "q": "1.0.1",
+    "socks5-http-client": "0.1.6",
+    "socks5-https-client": "0.2.2"
+  }
+}

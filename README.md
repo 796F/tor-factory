@@ -2,7 +2,7 @@
 
 first update your brew
 
-`brew update &7 brew install tor`
+`brew update && brew install tor`
 
 then install dependencies
 
